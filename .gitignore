@@ -1,0 +1,10 @@
+*.exe
+*.exe.stackdump
+Book/
+*.sublime-workspace
+.vscode
+test/
+# Codeforces
+run.sh
+main.cpp
+exe
