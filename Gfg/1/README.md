@@ -32,9 +32,3 @@ pair<int, int> Max_Sum(int nums[], int n, int k) {
         return ans1;
 }
 ```
-
-## Solution 2.
-
-```cpp
-
-```
