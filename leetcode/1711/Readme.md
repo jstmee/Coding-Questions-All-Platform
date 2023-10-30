@@ -1,7 +1,8 @@
 
 **Similar Questions**:
-* [pair with largest sum less than k](https://practice.geeksforgeeks.org/problems/pair-with-largest-sum-which-is-less-than-k-in-the-array/1) [Solution](..../Gfg/1)
-*[count good meals]()
+* [Two Sum](https://leetcode.com/problems/two-sum)[Solution](/leetcode/1/Readme.md)
+* [pair with largest sum less than k](https://practice.geeksforgeeks.org/problems/pair-with-largest-sum-which-is-less-than-k-in-the-array/1) [Solution](/Gfg/1/README)
+* [count good meals](https://leetcode.com/problems/count-good-meals/description/)[Solution](/leetcode/1711/Readme.md)
 * [15.3Sum (Medium)](https://leetcode.com/problems/3sum)
 * [18.4Sum (Medium)](https://leetcode.com/problems/4sum)
 * [923.4Sum with multiplicity (Medium)](https://leetcode.com/problems/3sum-with-multiplicity/)
