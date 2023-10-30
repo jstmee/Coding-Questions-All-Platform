@@ -6,9 +6,10 @@
 
 
 **Similar Questions**:
-* [3Sum (Medium)](https://leetcode.com/problems/3sum)
-* [4Sum (Medium)](https://leetcode.com/problems/4sum)
-* [4Sum (Medium)](https://leetcode.com/problems/3sum-with-multiplicity/)
+* [pair with largest sum less than k](https://practice.geeksforgeeks.org/problems/pair-with-largest-sum-which-is-less-than-k-in-the-array/1)
+* [15.3Sum (Medium)](https://leetcode.com/problems/3sum)
+* [18.4Sum (Medium)](https://leetcode.com/problems/4sum)
+* [923.4Sum with multiplicity (Medium)](https://leetcode.com/problems/3sum-with-multiplicity/)
 
 ## Solution 1.
 
